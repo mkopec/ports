@@ -1223,6 +1223,7 @@
     SUBDIR += libgta
     SUBDIR += libgtop
     SUBDIR += libgudev
+    SUBDIR += libgusb
     SUBDIR += libgutenfetch
     SUBDIR += libhash
     SUBDIR += libhoard
